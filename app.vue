@@ -1,4 +1,3 @@
-
 <template>
 <UContainer>
     <h1 style="text-decoration:underline; text-align:center;"><b>Fotohaven</b></h1>
