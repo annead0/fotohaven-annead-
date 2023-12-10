@@ -9,6 +9,13 @@
         </div>
     </UCard>
     <UCard class="mt-10">
+      <UAlert
+  icon="i-heroicons-command-line"
+  color="sky"
+  variant="solid"
+  title="Website in early Development!"
+/>
+
       <NuxtPage/>
     </UCard>
   </UContainer>
