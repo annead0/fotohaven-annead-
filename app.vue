@@ -7,6 +7,9 @@
           <ColorScheme><USelect v-model="$colorMode.preference" :options="['system', 'light', 'dark']" /></ColorScheme>
         </div>
     </UCard>
+    <UCard class="mt-10">
+      <NuxtView/>
+    </UCard>
   </UContainer>
 </template>
 <style>
