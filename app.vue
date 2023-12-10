@@ -9,10 +9,3 @@
     </UCard>
   </UContainer>
 </template>
-<style>
-#title{
-  text-decoration:underline;
-  text-align:center;
-  font-weight:bold;
-}
-</style>
