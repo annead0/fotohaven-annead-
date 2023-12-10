@@ -8,7 +8,7 @@
         </div>
     </UCard>
     <UCard class="mt-10">
-      <NuxtView/>
+      <NuxtPage/>
     </UCard>
   </UContainer>
 </template>
