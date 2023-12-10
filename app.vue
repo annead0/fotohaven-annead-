@@ -9,7 +9,7 @@
         </div>
     </UCard>
     <UCard class="mt-10">
-      <UAlert
+      <UAlert class="text-center"
   icon="i-heroicons-command-line"
   color="sky"
   variant="solid"
