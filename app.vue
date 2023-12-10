@@ -10,6 +10,9 @@ useHead({
         <div class="flex justify-between">
           <h1 class="text-xl font-large"><b>Fotohaven</b></h1>
           <NuxtLink to="/">Home</NuxtLink>
+          <NuxtLink>About</NuxtLink>
+          <NuxtLink>Photosearch</NuxtLink>
+          <NuxtLink to="https://annead.vercel.app">Annead</NuxtLink>
           <ColorScheme><USelect v-model="$colorMode.preference" :options="['system', 'light', 'dark']" /></ColorScheme>
         </div>
     </UCard>
