@@ -1,3 +1,8 @@
+<script setup lang="ts">
+useHead({
+  title:'Fotohaven'
+})
+</script>
 <template>
 <UContainer>
     
